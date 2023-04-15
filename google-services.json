@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264980328588",
+    "project_id": "nottaking-app",
+    "storage_bucket": "nottaking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264980328588:android:fe3c6ee6094fad87720ba9",
+        "android_client_info": {
+          "package_name": "com.example.note_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264980328588-tc6jb4t0bn1dqsh11sqon6sfhc5e2t10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQN1R-GULukyc2guKIedZo3q3V4wUZ6uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264980328588-tc6jb4t0bn1dqsh11sqon6sfhc5e2t10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
